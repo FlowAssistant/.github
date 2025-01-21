@@ -12,9 +12,9 @@ Flow는 부담 없는 대화 속에서 개인 맞춤형 활동을 추천하고, 
 
 
 
-## 🪅 팀원
+## 🤹‍♂️ 개발자
 
-| **한정우** |
+| **한정우 (개인 프로젝트)** |
 | :------: |  
 | [<img src="https://avatars.githubusercontent.com/groovyplanet" height=90> <br/> @groovyplanet](https://github.com/groovyplanet) |
 
